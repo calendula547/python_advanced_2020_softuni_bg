@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e281e970-54a7-4766-8248-ea7d017139fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c7izI39ZfAn7NViGznvZPrEIwD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.robotics">
+    <configuration name="balanced_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/balanced_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fashion_boutique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fashion_boutique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fast_food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fast_food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robotics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/robotics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="truck_tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stacks_queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/truck_tour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.robotics" />
+        <item itemvalue="Python.truck_tour" />
+        <item itemvalue="Python.balanced_parentheses" />
+        <item itemvalue="Python.fashion_boutique" />
+        <item itemvalue="Python.fast_food" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e281e970-54a7-4766-8248-ea7d017139fc" name="Default Changelist" comment="" />
+      <created>1589886292071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589886292071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="42" key="FileChooserDialogImpl" timestamp="1590530855523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="42" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590530855523" />
+    <state width="1144" height="224" key="GridCell.Tab.0.bottom" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590150663375" />
+    <state width="1144" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.0.center" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590150663375" />
+    <state width="1144" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.0.left" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590150663375" />
+    <state width="1144" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.0.right" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590150663375" />
+    <state width="1144" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.1.bottom" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590150662844" />
+    <state width="1144" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.1.center" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590150662844" />
+    <state width="1144" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.1.left" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590150662844" />
+    <state width="1144" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+    <state width="1144" height="224" key="GridCell.Tab.1.right" timestamp="1590526322739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590150662844" />
+    <state width="1144" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590526322739" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reverse_string.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/supermarket.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maxmin_elements.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_food.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fashion_boutique.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/balanced_parentheses.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/truck_tour.py</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/robotics.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
